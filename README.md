@@ -12,6 +12,8 @@ structured data. A sample implementation is [Pokégen](https://github.com/Frosku
 which allows the random generation of Pokémon teams.
 - [Mirrorpool](https://github.com/Frosku/mirrorpool) - A rudimentary application for backing
 up Philomena-based boorus.
+- [Ocellus](https://github.com/Frosku/ocellus) - A decentralized imagebooru specification
+based on ActivityPub & WebTorrent.
 
 ### Skills
 
