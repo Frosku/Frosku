@@ -3,7 +3,8 @@
 ### Who is Frosku?
 
 I'm a liberty-minded software developer with an interest in decentralized applications, 
-procedural generation, and censorship-resistant technology.
+procedural generation, and censorship-resistant technology. My mission is to democratize
+what has become a corporate-controlled & politicized space on the Internet.
 
 ### Projects
 
