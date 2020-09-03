@@ -1,16 +1,21 @@
-### Hi there 👋
+![](https://i.imgur.com/Zs7agFw.png)
 
-<!--
-**Frosku/Frosku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who is Frosku?
 
-Here are some ideas to get you started:
+I'm a liberty-minded software developer with an interest in decentralized applications, 
+procedural generation, and censorship-resistant technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- [Disultory](https://github.com/Frosku/disultory) - A library for procedurally generating
+structured data. A sample implementation is [Pokégen](https://github.com/Frosku/pokegen),
+which allows the random generation of Pokémon teams.
+- [Mirrorpool](https://github.com/Frosku/mirrorpool) - A rudimentary application for backing
+up Philomena-based boorus.
+
+### Skills
+
+- Clojure / Pedastal
+- Clojurescript
+- Elixir / Ecto
+- Perl / Dancer
