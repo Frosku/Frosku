@@ -1,5 +1,3 @@
-![](https://i.imgur.com/Zs7agFw.png)
-
 ### Who is Frosku?
 
 I'm a liberty-minded software developer with an interest in decentralized applications, 
